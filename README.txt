@@ -1,0 +1,1 @@
+These lines are created simply for the purpose of facilitating the stopping of certain network services in Linux, simply to save steps in the process. It should be noted that I only use this in the aerodumptools tool, so I have not tested it in other tools. As I learn to use other tools, I will update the directory, perhaps with more items.
